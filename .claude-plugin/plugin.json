@@ -1,0 +1,7 @@
+{
+  "name": "baseline-skills",
+  "version": "0.1.0",
+  "description": "Baseline Claude Code skills for developers and AWS platform engineers: commit, PR, TDD, debugging, secrets hygiene, docs, Terraform, AWS CLI, IAM, Docker, GitHub Actions, Kubernetes, ADR, runbooks, release, cost review.",
+  "author": { "name": "baseline-skills maintainers" },
+  "keywords": ["skills", "aws", "devops", "terraform", "platform-engineering"]
+}

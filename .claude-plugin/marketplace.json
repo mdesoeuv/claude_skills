@@ -1,0 +1,12 @@
+{
+  "name": "baseline",
+  "owner": { "name": "baseline-skills maintainers" },
+  "description": "Baseline Claude Code skills for developers and AWS platform engineers",
+  "plugins": [
+    {
+      "name": "baseline-skills",
+      "source": "./",
+      "description": "Core developer workflow skills plus AWS/platform engineering skills"
+    }
+  ]
+}
